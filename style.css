@@ -22,7 +22,7 @@ background-image:url(4440058-hd-wallpapers.jpg);
 }
 .logo{
 color:#fff;
-font-family:monotype corsiva;
+font-family: 'Dancing Script', cursive;
 font-size:60px;
 font-weight:600;
 float: left;
@@ -74,21 +74,21 @@ cursor: pointer;
 margin-left: 0px;
 font-size: 27px;
 color: black;
-font-family:monotype corsiva;
+font-family: 'Dancing Script', cursive;
 }
 
 .t2{
 font-size: 75px;
 margin-left: 0px;
 color: black;
-font-family:monotype corsiva;
+font-family: 'Dancing Script', cursive;
 }
 .t3{
 font-size: 27px;
 margin-left: 0px;
 margin: 5px 0;
 color: black;
-font-family:monotype corsiva;
+font-family: 'Dancing Script', cursive;
 }
 
 span{

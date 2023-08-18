@@ -715,7 +715,9 @@ display: none;
         transform: translatey(-10px);
         filter: drop-shadow(14px 14px 5px cyan);
     }
-
+#ofm3{
+ margin-top:300px;
+}
     /*------memory------*/
     .memory{
         width: 100%;
@@ -760,7 +762,7 @@ box-shadow: 1px 2px 10px 10px white;
 animation: slider 21s infinite linear;
 }
 #achieve{
-padding: 20px 15px;
+display:none;
 }
 .achieve-list{
 display: grid;

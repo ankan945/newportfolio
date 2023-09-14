@@ -1,1 +1,2 @@
-hello hi this is image :-- [660523](https://github.com/ankan945/newportfolio/assets/119874965/b1b5631f-3016-4451-b331-c3cd9517d525)
+hello hi this is image :-- 
+![bezo4](https://github.com/ankan945/newportfolio/assets/119874965/5708a337-6f91-446e-8827-ad3309a53bec)
